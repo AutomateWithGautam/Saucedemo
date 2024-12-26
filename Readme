@@ -1,0 +1,10 @@
+To add in this automation project:
+
+Goal - General E-commerce website Automation Testing (TestFAst!) - Businesses should be able to integrat any e-commerce website to this automation which will test any E-COMMERCE WEBSITE .
+
+
+1. Allure reporting
+2. API Post request capturing success calls
+3. Taking login information from Page instead of manual entering 
+4. POM and Cucumber implementation
+5. reports gets sent to email
